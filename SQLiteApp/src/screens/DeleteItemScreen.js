@@ -7,7 +7,7 @@ const DeleteItemScreen = () => {
 
     const handleDeleteItem = () => {
         deleteItemByName(itemName, () => {
-            // Optionally, you can handle the deletion completion here
+            
         });
     };
 
